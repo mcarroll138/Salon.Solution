@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
-using Salon.Solution.Models;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace Salon.Solution.Controllers;
 
