@@ -8,6 +8,8 @@ Link to GH Page:
 https://github.com/mcarroll138
 
 ## Technologies used 
+- HTML
+- CSS
 - C#
 - .NET 6.0
 - MySQL Workbench
