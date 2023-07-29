@@ -21,7 +21,7 @@ https://github.com/mcarroll138
 
 
 ## Complete setup/installation instructions 
-- Clone this repository from github
+- Clone this repository from GitHub
 - Navigate to the HairSalon directory in your terminal and create a new file called appsettings.json
 - Within this file add the following lines of code:
 
@@ -35,7 +35,7 @@ https://github.com/mcarroll138
 - This will allow you to use the michael_carroll.sql file. 
 - NOTE: There is no sensitive material on this database, it has been used only to test the functionality.
 - Once this has been set up, navigate to the HairSalon directory and run $ dotnet watch run
-- Once page loads, you will be at the Home Page where you can either View the Stylist List or View the Client List. Please note that you must have atleast one stylist loaded into the system before you can add any clients.
+- Once page loads, you will be at the Home Page where you can either View the Stylist List or View the Client List. Please note that you must have at least one stylist loaded into the system before you can add any clients.
 
 ## Known Bugs
 
